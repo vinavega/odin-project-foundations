@@ -1,3 +1,18 @@
-* {
+.recipe-title,
+#ingredients {
     color: purple;
+    background-color: black;
+  }
+
+  .subsection.header {
+    color: red;
+    background-color: black;
+  }
+  
+  .subsection#preview {
+    color: blue;
+  }
+  
+  body {
+    background-color: grey;
   }
