@@ -1,7 +1,7 @@
 .recipe-title,
 #ingredients {
     color: purple;
-    background-color: black;
+    background-color: #0000ff10;
   }
 
   .subsection.header {
@@ -12,7 +12,23 @@
   .subsection#preview {
     color: blue;
   }
+
+  .ancestor .contents2 {
+    color: rgb(0, 255, 64);
+    font-family: sans-serif;
+    font-size: 1rem;
+    font-weight:bold;
+  }
   
   body {
     background-color: grey;
+  }
+
+  .list1 {
+    color: black;
+  }
+
+  img {
+    height: auto;
+    width: 200px;
   }
